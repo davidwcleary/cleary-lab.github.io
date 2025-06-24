@@ -1,1 +1,1 @@
-Sitemap: https://davidwcleary.github.io/cleary-lab-website/sitemap.xml
+Sitemap: https://davidwcleary.github.io/cleary-lab.github.io/sitemap.xml
