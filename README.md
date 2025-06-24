@@ -5,6 +5,6 @@
 
   # davidwcleary's Website
 
-  Visit **[davidwcleary.github.io/cleary-lab-website](https://davidwcleary.github.io/cleary-lab-website)** 🚀
+  Visit **[davidwcleary.github.io/cleary-lab.github.io](https://davidwcleary.github.io/cleary-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
