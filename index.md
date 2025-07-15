@@ -1,9 +1,9 @@
 ---
 ---
 
-# davidwcleary's Website
+# The Cleary Lab Website
 
-An engaging 1-3 sentence description of your lab.
+The Cleary Lab uses a combination of experimental and computational approaches to study bacterial pathobiont colonisation in the upper respiratory tract.
 
 {% include section.html %}
 
