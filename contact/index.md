@@ -25,7 +25,7 @@ The Cleary lab would be happy to hear from potential PhD students, Post-Docs and
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/rFmom9jPhes7pgx37)"
+  link="https://maps.app.goo.gl/rFmom9jPhes7pgx37"
 %}
 
 {% include section.html %}
