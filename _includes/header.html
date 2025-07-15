@@ -1,10 +1,10 @@
 {% assign image = page.header | default: site.header %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
-{% assign svg = "images/logo-2.svg" | file_exists %}
-{% assign png = "images/logo-2.png" | file_exists %}
-{% assign jpg = "images/logo-2.jpg" | file_exists %}
-{% assign logo = png | default: png | default: jpg | default: nil %}
+{% assign svg = "images/logo-cleary.svg" | file_exists %}
+{% assign png = "images/logo-cleary.png" | file_exists %}
+{% assign jpg = "images/logo-cleary.jpg" | file_exists %}
+{% assign logo = jpeg | default: png | default: jpg | default: nil %}
 
 <header
   class="background"
